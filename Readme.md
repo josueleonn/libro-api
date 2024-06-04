@@ -5,5 +5,5 @@ Se añadio la clase LibroException que es una excepción personalizada que se ut
 
 
 Ademas, se ha modificado el controlador de libros para que, en caso de no encontrar un libro, responda con un estado NOT_FOUND y un mensaje personalizado. Esta actualización garantiza una mejor experiencia para los usuarios al proporcionar información más clara sobre la falta de resultados.
-
 ![2](https://github.com/josueleonn/libro-api/assets/147575712/0bc8b277-3718-4b2d-8d0e-3485667dcda6)
+![4](https://github.com/josueleonn/libro-api/assets/147575712/b83d18fb-98bb-4705-8ab0-65a5fdaa0e02)
