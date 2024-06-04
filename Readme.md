@@ -7,3 +7,7 @@ Se añadio la clase LibroException que es una excepción personalizada que se ut
 Ademas, se ha modificado el controlador de libros para que, en caso de no encontrar un libro, responda con un estado NOT_FOUND y un mensaje personalizado. Esta actualización garantiza una mejor experiencia para los usuarios al proporcionar información más clara sobre la falta de resultados.
 ![2](https://github.com/josueleonn/libro-api/assets/147575712/0bc8b277-3718-4b2d-8d0e-3485667dcda6)
 ![4](https://github.com/josueleonn/libro-api/assets/147575712/b83d18fb-98bb-4705-8ab0-65a5fdaa0e02)
+
+Cuando se crea un libro, la respuesta del servidor debe incluir el estado CREATE. Esto proporciona una confirmación clara de que la operación de creación se realizó con éxito.
+![5IMA](https://github.com/josueleonn/libro-api/assets/147575712/35645619-6717-46a5-9a9a-cdb60e649886)
+![5IM](https://github.com/josueleonn/libro-api/assets/147575712/4063a76e-2f0d-43bc-8739-951287573f40)
